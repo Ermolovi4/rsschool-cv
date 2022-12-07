@@ -9,3 +9,7 @@ feat: add banner
 feat: add social links
 feat: add physical security section
 feat: add real social icons
+fix: implement correct loading data from youtube
+fix: change layout for video items to fix bugs
+fix: relayout header for firefox
+fix: adjust social links for mobile
